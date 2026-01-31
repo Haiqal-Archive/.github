@@ -3,29 +3,40 @@
 
 <p align="center">
     <a href="https://github.com/HaiqalAly"><img src="https://img.shields.io/badge/Main_Profile-black?style=flat&logo=github&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Status-Active_Student-brightgreen?style=flat" />
     <a href="mailto:haiqalaly@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
     <em>
-        This organization serves as the central storage for my academic journey at <b>STMIK Antar Bangsa</b>.<br> 
-        It houses college assignments, group projects, and semester-long archives.<br>
-        Keeping things organized so the main profile stays clean.
+        Organisasi ini berfungsi sebagai penyimpanan pusat untuk perjalanan akademik saya di <b>STMIK Antar Bangsa</b>.<br> 
+        Di sini tersimpan tugas kuliah, proyek kelompok, dan arsip setiap semester.<br>
+        Menjaga profil utama tetap rapi sambil tetap mendokumentasikan proses belajar.
     </em>
 </p>
 
-### Education Details
-* **Institution:** STMIK Antar Bangsa, Indonesia
-* **Major:** Computer Science (S1 Teknik Informatika)
-* **Current Status:** Sophomore (Semester 3)
+---
 
-### What I'm Doing This Semester 3
-* **[RustHub Docs](https://github.com/Haiqal-Archive/UAS-Pemrograman-Web)** - CI3 & Docker Web Portal.
-* **[PBO-UAS](https://github.com/Haiqal-Archive/UAS-PBO)** - Procedural & OOP logic tasks.
+### Detail Pendidikan
+* **Institusi:** STMIK Antar Bangsa, Indonesia
+* **Program Studi:** S1 Teknik Informatika (Computer Science)
+* **Status Saat Ini:** Semester 3 (Sophomore)
+* **Fokus Studi:** Web Development, Object-Oriented Programming, & Database Management.
 
-### Repository naming convention
-To keep this archive searchable, I use the following tags:
-- `UAS-` : Final Exam Projects
+### Tech Stack & Tools (Academic)
+Selama menempuh studi, saya aktif menggunakan:
+* **Languages:** PHP, Java, JavaScript, SQL.
+* **Frameworks:** CodeIgniter 3, Bootstrap.
+* **Environment:** Linux, Git, Docker.
+
+### Proyek Semester 3 (Unggulan)
+* **[RustHub Docs](https://github.com/Haiqal-Archive/UAS-Pemrograman-Web)** > Portal web berbasis CodeIgniter 3 yang di-containerize menggunakan Docker. Proyek ini mencakup manajemen dokumentasi dan implementasi CI/CD sederhana.
+
+### Konvensi Penamaan Repositori
+Agar arsip ini tetap teratur dan mudah dicari, saya menggunakan prefix berikut:
+* `UAS-` : Proyek Ujian Akhir Semester.
+* `UTS-` : Proyek Ujian Tengah Semester.
+* `TGS-` : Tugas mingguan atau praktikum mandiri.
 
 ---
 
